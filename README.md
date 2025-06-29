@@ -1,6 +1,3 @@
-Got it! Since your repo is focused on documenting your **learnings** and not a full-blown project, here’s a simpler, cleaner `README.md` that reflects a personal learning journal — still informative, but lighter and more approachable.
-
----
 
 # Docker for MLOps 🐳✍️
 
